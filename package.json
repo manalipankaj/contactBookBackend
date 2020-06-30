@@ -1,0 +1,16 @@
+{
+  "name": "contact_book_server",
+  "version": "1.0.0",
+  "description": "Contact book backend server",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "pankaj manali",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg": "^8.2.1"
+  }
+}
